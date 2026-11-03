@@ -1,0 +1,24 @@
+{
+  "documents": [
+    {
+      "book": "Cambridge IELTS 19 Academic",
+      "test": "Test 1",
+      "passage": "Reading Passage 1",
+      "title": "填写你实际导入的文章标题",
+      "text": "在这里粘贴你提供的英文原文。此模板不含真题文章。"
+    },
+    {
+      "book": "Cambridge IELTS 19 Academic",
+      "test": "Test 2",
+      "passage": "Reading Passage 1",
+      "title": "也可逐句提供译文和页码",
+      "sentences": [
+        {
+          "text": "Put the original sentence you provide here.",
+          "translation": "可选：你提供的中文译文",
+          "page": 40
+        }
+      ]
+    }
+  ]
+}
